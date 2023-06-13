@@ -1,0 +1,2 @@
+# friendsoniales
+Parcial Haskell
